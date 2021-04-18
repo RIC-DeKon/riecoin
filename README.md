@@ -3,7 +3,7 @@
 <img src="view.png">
 
 Simple faucet for Riecoin.<br /> 
-Easily understandable and modifiable.
+Easily understandable and editable.
 
 PHP and MySQL or MariaDB database.
 
