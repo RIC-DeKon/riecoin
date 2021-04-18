@@ -1,6 +1,6 @@
 # riecoin-faucet
 
-<img src="preview.png">
+<img src="view.png">
 
 Simple faucet for Riecoin.<br /> 
 Easily understandable and modifiable.
